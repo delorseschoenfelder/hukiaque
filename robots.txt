@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jahlierose.saritegozi.com/sitemap.xml
